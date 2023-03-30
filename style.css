@@ -1,0 +1,40 @@
+.calc{
+width: 400px;
+height: 600px;
+background: linear-gradient(45deg, #8e2de2, #04cffc);
+margin-left: 500px;
+border-radius: 1em;
+}
+#screen{
+height: 40px;
+width: 80%;
+margin-left: 36px;
+margin-top: 30px;
+pointer-events: none;
+border-radius: 1pc;
+}
+.btn{
+width: 60px;
+height: 45px;
+margin-left: 30px;
+margin-top: 30px;
+background: #38edde;
+border-radius: 5rem;
+}
+.btn-c{
+margin-left: 35px;
+margin-top: 30px;
+height: 40px;
+width: 100px;
+background: #e3daca;
+border-radius: 0.5rem;
+}
+.btn-dot{
+width: 60px;
+height: 45px;
+margin-left: 30px;
+margin-top: 30px;
+background: #38edde;
+border-radius: 5rem;
+font-size: 15px;
+}
